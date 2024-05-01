@@ -13,5 +13,5 @@ Modify `publish_test_notifications.py` for schedule task testing (line 20 - 22)
 
 ## Best use case:
 - `apscheduler`: Periodic tasks that need to run on a strict schedule
-- `redis`: core technology for pub/sub method, communicate with backend serivce
+- `redis`: core technology for pub/sub method, communicatable with backend serivce
 
